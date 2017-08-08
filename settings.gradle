@@ -1,1 +1,2 @@
-include ':app', ':base', ':notify'
+include ':app', ':base', ':notify', ':framework' , ':ImageProc'
+//, ':gifsical'

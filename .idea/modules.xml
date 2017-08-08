@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageProc/ImageProc.iml" filepath="$PROJECT_DIR$/ImageProc/ImageProc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Xlib.iml" filepath="$PROJECT_DIR$/Xlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/notify/notify.iml" filepath="$PROJECT_DIR$/notify/notify.iml" />
     </modules>
   </component>
