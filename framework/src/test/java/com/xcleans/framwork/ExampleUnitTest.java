@@ -1,4 +1,4 @@
-package com.xcleans;
+package com.xcleans.framwork;
 
 import org.junit.Test;
 
