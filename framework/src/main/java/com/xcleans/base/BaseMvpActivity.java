@@ -6,6 +6,7 @@ import android.support.annotation.Nullable;
 /**
  * @param <V> view layer
  * @param <P> present layer
+ * @since 1.0
  */
 public abstract class BaseMvpActivity<V, P extends ABasePresent<V>> extends BaseActivity {
 
@@ -14,7 +15,7 @@ public abstract class BaseMvpActivity<V, P extends ABasePresent<V>> extends Base
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        
+
         mPresenter = initPresenter();
     }
 

@@ -7,7 +7,7 @@ import android.support.annotation.Nullable;
 import com.xcleans.base.log.XLog;
 
 /**
- * common activity
+ * @since 1.0
  */
 public class BaseActivity extends Activity {
 
